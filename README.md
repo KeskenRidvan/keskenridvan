@@ -17,6 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keskenridvan&show_icons=true&locale=en&layout=compact" alt="keskenridvan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keskenridvan&show_icons=true&locale=en" alt="keskenridvan" /></p>
+[![Rıdvan Kesken's GitHub](https://github-readme-stats.vercel.app/api?username=keskenridvan)](https://github.com/KeskenRidvan)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keskenridvan&" alt="keskenridvan" /></p>
+
+
