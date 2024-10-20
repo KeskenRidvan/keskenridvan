@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Kesken</h1>
 <h2 align="left">You can find the contents and tasks related to the training I have received and the voluntary work I have supported on this account. In each of my repositories, there are contents related to the training I have taken.</h2>
-<h3 align="left">If you would like to review my account where I apply what I have learned on my own: https://github.com/ridvankesken</h3>
-
-<p align="left"> <a href="https://github.com/KeskenRidvan"><img src="https://github-profile-trophy.vercel.app/?username=keskenridvan" alt="keskenridvan" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
