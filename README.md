@@ -51,6 +51,6 @@
 
 ### 🔥 My GitHub Streak:
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keskenridvan&" alt="Rıdvan Kesken's GitHub Streak" />
 </p>
