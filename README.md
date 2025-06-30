@@ -1,24 +1,30 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Kesken</h1>
 
-<h2 align="left">Passionate about software development, I focus on building robust and scalable applications, primarily in web technologies. This profile is a reflection of the training I've undergone and the open-source and voluntary projects I've supported. In each of my repositories, you'll find a piece of my learning journey, where I apply new concepts and continuously explore cutting-edge technologies.</h2>
+### Passionate about software development, I focus on building robust and scalable applications, primarily in web technologies. This profile is a reflection of the training I've undergone and the open-source and voluntary projects I've supported. In each of my repositories, you'll find a piece of my learning journey, where I apply new concepts and continuously explore cutting-edge technologies.
+
+#### Connect with me:
+
+<div id="badges" align="left">
+  <a 
+    href="https://www.linkedin.com/in/ridvankesken/" 
+    target="_blank" 
+    rel="noreferrer">
+      <img 
+        align="center" 
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" 
+        alt="Rıdvan Kesken LinkedIn"/>
+  </a>
+</div>
 
 ---
 
 - 🌱 I’m currently diving deep into **React**, focusing on building scalable and and performant single-page applications. My goal is to master modern front-end frameworks and contribute to impactful open-source projects.
 
 - 📫 How to reach me: **kesken.dev@gmail.com**
-
+  
 ---
 
-### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ridvankesken/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rıdvan Kesken LinkedIn" height="30" width="40" /></a>
-</p>
-
----
-
-### My Skills & Tools:
+### :hammer_and_wrench: My Skills & Tools:
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
@@ -44,13 +50,13 @@
 ### 📊 My GitHub Stats:
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keskenridvan&show_icons=true&locale=en&layout=compact" alt="Rıdvan Kesken's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keskenridvan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Rıdvan Kesken's Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=keskenridvan&show_icons=true&locale=en" alt="Rıdvan Kesken's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keskenridvan&show_icons=true&locale=en&theme=dark" alt="Rıdvan Kesken's GitHub Stats" />
 </p>
 
 ### 🔥 My GitHub Streak:
 
 <p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keskenridvan&" alt="Rıdvan Kesken's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keskenridvan&theme=dark" alt="Rıdvan Kesken's GitHub Streak" />
 </p>
